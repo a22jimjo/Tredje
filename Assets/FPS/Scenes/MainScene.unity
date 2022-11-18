@@ -3505,12 +3505,17 @@ PrefabInstance:
 <<<<<<< HEAD
       value: 111
 =======
+      value: 37
 >>>>>>> b3dc073264be93e7f3f022b3c778e686b701dcc3
       objectReference: {fileID: 0}
     - target: {fileID: 6370966072896210225, guid: e29d43f43cc5d82499dd9926e01847d3,
         type: 3}
       propertyPath: CriticalHealthRatio
+<<<<<<< HEAD
       value: 0.4
+=======
+      value: 0.5
+>>>>>>> b3dc073264be93e7f3f022b3c778e686b701dcc3
       objectReference: {fileID: 0}
     - target: {fileID: 9087143436424816424, guid: e29d43f43cc5d82499dd9926e01847d3,
         type: 3}
